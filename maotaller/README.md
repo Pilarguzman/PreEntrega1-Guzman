@@ -1,4 +1,8 @@
 # React + Vite
+# Curso REACT JS / Comisión 47210
+# PreEntrega1-Guzman
+# Proyecto MAOtaller
+**Repositorio de nuestro proyecto**
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
